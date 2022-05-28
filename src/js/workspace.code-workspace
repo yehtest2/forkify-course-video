@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "src",
+		"path": "../../../../Downloads/complete-javascript-course-master/18-forkify/starter/src"
+	},
+	{
+		"name": "starter",
+		"path": "../.."
+	}
+],
+  "settings": {}
+}
